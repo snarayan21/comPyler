@@ -1,0 +1,68 @@
+a = True
+b = 7
+c = -8
+d = 3
+e = 5
+f = -2
+g = False
+h = False
+i = True
+j = -6
+k = False
+l = True
+m = False
+n = -24
+o = True
+p = 21
+q = 26
+r = 2
+s = False
+t = -22
+u = -1
+v = False
+w = False
+x = False
+y = -17
+z = -5
+if 22 :
+    u = v
+elif True * (True + q) :
+    t = a
+else:
+    w = a
+    t = f
+if c :
+    s = q
+else:
+    j = c
+    a = -3
+o = j
+v = 13
+r = b
+g = j
+print( o )
+print( r )
+print( d )
+print( g )
+print( b )
+print( c )
+print( p )
+print( q )
+print( w )
+print( m )
+print( x )
+print( e )
+print( n )
+print( y )
+print( i )
+print( s )
+print( k )
+print( z )
+print( h )
+print( u )
+print( j )
+print( v )
+print( l )
+print( t )
+print( a )
+print( f )

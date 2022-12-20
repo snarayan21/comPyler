@@ -1,0 +1,63 @@
+a = 2
+b = -17
+c = False
+d = 28
+e = False
+f = -6
+g = False
+h = -28
+i = -17
+j = False
+k = 20
+l = True
+m = True
+n = False
+o = False
+p = False
+q = True
+r = False
+s = -27
+t = True
+u = False
+v = -30
+w = -27
+x = 5
+y = False
+z = -9
+if q == True :
+    u = 9
+    d = l
+else:
+    f = -29
+if s :
+    d = True
+else:
+    q = y
+    k = g
+w = r
+print( z )
+print( k )
+print( i )
+print( p )
+print( y )
+print( m )
+print( d )
+print( w )
+print( q )
+print( f )
+print( s )
+print( a )
+print( n )
+print( r )
+print( o )
+print( g )
+print( x )
+print( e )
+print( j )
+print( u )
+print( l )
+print( c )
+print( b )
+print( v )
+print( t )
+print( h )

@@ -1,0 +1,72 @@
+a = False
+b = -6
+c = -2
+d = False
+e = -8
+f = False
+g = False
+h = -21
+i = False
+j = 17
+k = False
+l = -2
+m = False
+n = 27
+o = 24
+p = False
+q = True
+r = 6
+s = 26
+t = -2
+u = False
+v = -27
+w = False
+x = False
+y = -13
+z = 16
+if True - (False > True) :
+    z = y
+    a = b
+elif + (0 < o) :
+    h = -13
+    z = True
+    n = True
+else:
+    t = w
+    m = o
+    f = -20
+x = 14 * 17
+if t :
+    c = True
+elif -16 :
+    g = False
+else:
+    p = q
+g = g
+a = h
+print( y )
+print( n )
+print( c )
+print( o )
+print( p )
+print( d )
+print( h )
+print( k )
+print( b )
+print( i )
+print( e )
+print( z )
+print( s )
+print( a )
+print( x )
+print( j )
+print( t )
+print( q )
+print( g )
+print( m )
+print( r )
+print( u )
+print( l )
+print( v )
+print( w )
+print( f )

@@ -1,0 +1,69 @@
+a = False
+b = True
+c = True
+d = 0
+e = -20
+f = False
+g = -29
+h = 16
+i = True
+j = False
+k = 20
+l = -30
+m = False
+n = True
+o = -29
+p = 20
+q = True
+r = 23
+s = True
+t = False
+u = True
+v = False
+w = -10
+x = 11
+y = True
+z = -19
+d = (- True == (16 >= w)) * (False > b != (r != False != e))
+if j :
+    q = 12
+    w = True
+elif False :
+    c = -17
+else:
+    v = m
+    i = True
+    b = 7
+if False :
+    j = -17
+elif k :
+    w = d
+else:
+    s = True
+w = p
+print( x )
+print( l )
+print( t )
+print( j )
+print( y )
+print( p )
+print( z )
+print( r )
+print( q )
+print( e )
+print( n )
+print( f )
+print( w )
+print( b )
+print( g )
+print( a )
+print( o )
+print( i )
+print( c )
+print( m )
+print( d )
+print( k )
+print( v )
+print( u )
+print( h )
+print( s )

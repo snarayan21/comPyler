@@ -1,0 +1,84 @@
+a = -23
+b = 25
+c = True
+d = True
+e = True
+f = True
+g = False
+h = False
+i = True
+j = True
+k = True
+l = False
+m = 9
+n = True
+o = True
+p = -26
+q = True
+r = False
+s = False
+t = True
+u = False
+v = True
+w = -18
+x = 19
+y = True
+z = False
+if (not (p - d)) < (not -11) :
+    if d :
+        d = m
+        c = a
+        a = -22
+    else:
+        y = s
+        w = 1
+        y = -27
+    if 19 :
+        w = -17
+    elif l :
+        n = 25
+    else:
+        q = s
+    v = u
+    x = z
+else:
+    g = j
+if n :
+    d = -19
+elif j :
+    h = -24
+else:
+    z = False
+if k :
+    d = a
+elif False :
+    p = d
+else:
+    f = b
+v = t
+print( q )
+print( u )
+print( m )
+print( t )
+print( c )
+print( l )
+print( h )
+print( a )
+print( r )
+print( f )
+print( n )
+print( i )
+print( y )
+print( p )
+print( j )
+print( b )
+print( e )
+print( v )
+print( k )
+print( w )
+print( o )
+print( z )
+print( g )
+print( x )
+print( s )
+print( d )
